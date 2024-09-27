@@ -1,0 +1,26 @@
+@import "./fonts.css";
+
+:root {
+  /* fonts */
+  --font-sans: "Open Sans", sans-serif;
+
+  /* colors */
+	--color-white: #fff;
+	--color-slate: #5a607a;
+	--color-blue-light: #2867c6;
+	--color-blue-dark: #112d51;
+	--color-skyBlue: #f0f5f8;
+  --color-border-light: #f0f0f0;
+
+
+  /* gradients */
+  --gradient-card-background: linear-gradient(93.43deg, #022C60 6.5%, #5F96CE 99.97%);
+  --gradient-card-border: linear-gradient(154.28deg, #A47E62 26.26%, rgba(255, 249, 245, 0.91) 99.05%);
+
+  /* border-radius */
+  --radius-card: 10px;
+  --radius-button: 50px;
+
+  /* shadows */
+  --shadow-card: 0px 4px 8px 0px #0000001A;
+}
